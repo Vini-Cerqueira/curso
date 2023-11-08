@@ -1,3 +1,4 @@
 # curso
 
-* comando git puch
+* comando git push
+* comando git pull
